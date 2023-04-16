@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "content": "eat a burger",
+      "id": 1,
+      "completed": true
+    },
+    {
+      "content": "hit my dog",
+      "id": 2,
+      "completed": true
+    },
+    {
+      "content": "eat salad",
+      "id": 3,
+      "completed": false
+    },
+    {
+      "content": "hit the gym",
+      "id": 4,
+      "completed": false
+    },
+    {
+      "content": "find a girlfriend",
+      "id": 5,
+      "completed": false
+    }
+  ]
+}
